@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iatiegha
-- 👀 I’m interested in software development 
+- 👀 I’m interested in data science and data engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: iniye.atiegha@icloud.com

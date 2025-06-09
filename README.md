@@ -19,9 +19,9 @@ languages (and skills) to learn next:
 
 Contact
 -------------
-personal email: iniye.atiegha@icloud.com
-professional email: iniye.atiegha@yale.edu
-linkedin: www.linkedin.com/in/iniye-atiegha-351a58202
+- personal email: iniye.atiegha@icloud.com
+- professional email: iniye.atiegha@yale.edu
+- linkedin: www.linkedin.com/in/iniye-atiegha-351a58202
 
 
 <!---

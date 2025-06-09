@@ -6,7 +6,10 @@ current project: setting up my github!
 
 latest completed project: TBD :)
 
+
 currently reading: ???
+
+
 
 languages (and skills) to learn next:
 - html + css

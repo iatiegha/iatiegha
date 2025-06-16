@@ -7,7 +7,7 @@ current project: setting up my github!
 latest completed project: TBD :)
 
 
-currently reading: ???
+currently reading: between the world and me (ta-nehisi coates)
 
 
 

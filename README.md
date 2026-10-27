@@ -1,8 +1,8 @@
-Hi, I'm Iniye! I'm currently a junior studying Statistics and Data Science at Yale University. 
+Hi, I'm Iniye! I'm currently a senior studying Statistics and Data Science at Yale University. 
 
 currently reading: between the world and me (ta-nehisi coates)
 
-tech stack: python, r, sql, c
+tech stack: r, sql, python
 
 
 Contact

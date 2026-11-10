@@ -1,6 +1,7 @@
 Hi, I'm Iniye! I'm currently a senior studying Statistics and Data Science at Yale University. 
 
-currently reading: between the world and me (ta-nehisi coates)
+currently reading: atomic habits by james clear
+currently working on: blender frame for website
 
 tech stack: r, sql, python
 
